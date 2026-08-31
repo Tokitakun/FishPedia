@@ -8,7 +8,7 @@
 
 <br />
 
-**Fishpedia** adalah ensiklopedia ikan digital interaktif yang dirancang untuk membantu penghobi akuarium mengenali berbagai spesies, memahami habitat aslinya, dan mengetahui kisaran harga pasar terkini. Dibangun dengan fokus pada UI/UX yang modern, responsif, dan data-driven.
+**Fishpedia** adalah ensiklopedia ikan digital interaktif yang awalnya hanya untuk tugas sekolah,namun melihat potensi dari project ini saya berpikir akan mengembangkannya.
 ## 📸 Screenshots
 
 <div align="center">
