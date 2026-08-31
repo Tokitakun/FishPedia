@@ -19,8 +19,7 @@
 
 <br />
 
-## ✨ Fitur Utama (v1.0)
-...
+
 > ⚠️ **Status Saat Ini:** v1.0 (Prototype)  
 > Data dan gambar saat ini masih menggunakan *dummy data* untuk keperluan demonstrasi UI/UX.
 
