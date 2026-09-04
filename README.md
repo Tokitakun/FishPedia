@@ -41,7 +41,6 @@ Proyek ini dikembangkan secara bertahap dengan target fitur sebagai berikut:
 - [ ] Sorting berdasarkan nama / harga
 - [ ] Dedicated fish detail page (non-modal)
 - [ ] Penambahan data spesies yang lebih lengkap
-- [ ] Favorite ikan menggunakan LocalStorage
 
 ### v1.2 — JSON / Public API Integration
 - [ ] Migrasi data dari hardcode ke file JSON terpisah
